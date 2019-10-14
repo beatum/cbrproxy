@@ -11,7 +11,7 @@ pipenv install
 ```
 или так
 ```
-pip install -r reuirements.txt
+pip install -r requirements.txt
 ```
 запускаем
 ```
