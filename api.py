@@ -31,4 +31,4 @@ def get_currency(path):
         else:
             abort(400)
     else:
-        abort(500)
+        abort(400)
